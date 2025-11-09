@@ -1,0 +1,40 @@
+# Thermal Imaging Project Requirements
+# Generated based on thermal_imaging.ipynb imports
+
+# Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# EfficientNet Architecture
+efficientnet-pytorch>=0.7.1
+
+# Data Processing and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning and Metrics
+scikit-learn>=1.3.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# System Utilities
+psutil>=5.9.0
+
+# SSL Certificate Handling
+certifi>=2023.0.0
+
+# Standard Library (included with Python, listed for reference)
+# warnings (built-in)
+# itertools (built-in)
+# time (built-in)
+# collections (built-in)
+# gc (built-in)
+# datetime (built-in)
+# pathlib (built-in)
+# glob (built-in)
+# os (built-in)
